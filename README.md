@@ -10,4 +10,4 @@
 
 ## Linguagens em que trabalho:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiwll&hide_title=true&layout=compact&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&card_width=500&card_height=50&langs_count=4&locale=pt-br)](https://github.com/Kaysiwll/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiwll&hide_title=true&layout=compact&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&card_width=445&card_height=50&langs_count=4&locale=pt-br)](https://github.com/Kaysiwll/github-readme-stats)
