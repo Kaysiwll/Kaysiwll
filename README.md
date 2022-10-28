@@ -6,7 +6,7 @@
 
 ## **Contribuições:**
 
-![Kaysiwll's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiwll&hide_title=true&show_icons=true&theme=radical&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&locale=pt-br)
+![Kaysiwll's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiwll&hide_title=true&include_all_commits=true&show_icons=true&theme=radical&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&locale=pt-br)
 
 ## **Tecnologias em que trabalho:**
 
