@@ -6,4 +6,4 @@
 
 ## Contribuições:
 
-![Kaysiwll's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiwll&show_icons=true&theme=radical&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&locale=pt-br)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiwll&layout=compact&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&locale=pt-br)](https://github.com/Kaysiwll/github-readme-stats)
+![Kaysiwll's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysiwll&show_icons=true&theme=radical&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&locale=pt-br)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysiwll&layout=compact&title_color=ffffff&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF&line_height=25&locale=pt-br)](https://github.com/Kaysiwll/github-readme-stats)
